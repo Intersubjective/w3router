@@ -1,0 +1,12 @@
+/bor_datadir
+.vscode
+
+backend/src/polydash/alchemy_token.txt
+backend/src/polydash/blocks.sqlite
+backend/src/polydash/*.db*
+frontend/node_modules/
+frontend/dist
+
+creds.env
+/pg_data
+/pg_data_cardano
