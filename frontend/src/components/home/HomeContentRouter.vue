@@ -13,7 +13,7 @@ import { store } from '@/store';
     <AppTabsBlockchains class="home-content-router__chain-tabs" />
     <p class="home-content-router__text">
       Experience Web3 with unparalleled trust.
-      Sidestep MEV, censorship, and reordering effortlessly through W3rtouer RPC service.
+      Sidestep MEV, censorship, and reordering effortlessly through W3Router RPC service.
     </p>
     <div class="home-content-router__buttons">
       <router-link
