@@ -19,8 +19,8 @@ const SOCIALS = [
   },
   {
     icon: IconMail,
-    title: 'mail@w3r.org',
-    link: 'mailto:mail@w3r.org',
+    title: 'vadim@intersubjective.space',
+    link: 'mailto:vadim@intersubjective.space',
   },
   {
     icon: IconTwitter,
